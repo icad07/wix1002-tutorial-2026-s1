@@ -38,7 +38,7 @@ Print the product
 
 
 
-!\[Flowchart](./flowchart1.png)
+\[Flowchart](flowchart1.png)
 
 
 
